@@ -108,7 +108,7 @@
 
 ```
 cd
-git clone https://github.com/arismelachroinos/lscript.git
+git clone https://github.com/SkyDovT/lscript.git
 cd lscript
 chmod +x install.sh
 ./install.sh
