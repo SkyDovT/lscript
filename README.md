@@ -8,33 +8,6 @@
 <img src="https://i.imgur.com/sSf1JcI.jpg"/>
 <img src="https://i.imgur.com/MlDFWax.jpg"/>
 <img src="https://i.imgur.com/rbdUIQI.jpg"/>
-</p>
-A video Hackersploit made : https://www.youtube.com/watch?v=oBpo5sElrMY
-
-A video sstec made:         https://www.youtube.com/watch?v=gSO7c2MN7TY
-
-**For feature-recommendation , add it on the "Issues" tab. NOW!**
-
-**I AM NOT RESPONSIBLE HOW YOU USE THIS TOOL.BE LEGAL AND NOT STUPID.**
-
-**This script will make your life easier, and of course faster.**
-
-**Its not only for noobs.Its for whoever wants to type less and do actually more.**
-
-### What is this
-This is a script for Kali Linux that automates many procedures about wifi penetration and hacking.
-I actually made it for fun for me just to save some time, but i don't mind publicing it.
-
-### Features
-
-   ### NEW FEATURE: Custom keyboard shortcuts!! Launch any tool within lscript , with your own shortcuts!!! (type ks to set your shortcuts)
-	
-Enabling-Disabling interfaces faster
-Changing Mac faster
-Anonymizing yourself faster
-View your public IP faster
-View your MAC faster
-	
 **TOOLS**
 
 	You can install whichever tool(s) you want from within lscript! 
@@ -164,15 +137,3 @@ rmdir -r /root/lscript
 Run the script
 Type "update"
 ```
-
-### Shoutouts
-
-##### [OpenSource Projects](https://www.facebook.com/opensourceprojects/)
-
-OpenSource Projects is a Facebook community page who's goal is to give developers, new and old, a easy and simple place to share their opensource contributions and projects. I personally think this is an awesome idea, I know how hard it is to get your code noticed by people and support these guys 100%. Go ahead and give them a like [here](https://www.facebook.com/opensourceprojects/). They will share any opensource project you send them for free. Thank you OpenSource Projects for giving developers a place to share work with one another!
-
-### Donate
-If you like my work, consider buying me a coffee :)
-
-[![paypal](https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif)](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=GC9RSY4CS6KAY)
-
